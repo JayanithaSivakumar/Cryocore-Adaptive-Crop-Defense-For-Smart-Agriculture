@@ -1,0 +1,11 @@
+services:
+  python-api:
+    build:
+      context: ./python_core
+      dockerfile: Dockerfile
+    ports:
+      - "8790:8790"
+    volumes:
+      - ./data:/app/data:ro
+      - ./python_core:/app/python_core
+    command: uvicorn app:app --host 0.0.0.0 --port 8790

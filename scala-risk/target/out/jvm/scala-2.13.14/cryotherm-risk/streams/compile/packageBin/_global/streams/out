@@ -1,0 +1,8 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/monika_aruldoss/Downloads/CryoTherm/scala-risk/target/out/jvm/scala-2.13.14/cryotherm-risk/cryotherm-risk_2.13-0.1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/cryotherm/risk/RiskUdfs$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/monika_aruldoss/Downloads/CryoTherm/scala-risk/target/out/jvm/scala-2.13.14/cryotherm-risk/classes/com/cryotherm/risk/RiskUdfs$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/cryotherm/risk/RiskUdfs.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/monika_aruldoss/Downloads/CryoTherm/scala-risk/target/out/jvm/scala-2.13.14/cryotherm-risk/classes/com/cryotherm/risk/RiskUdfs.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
+[0m[[0m[0mdebug[0m] [0m[0mwrote ${OUT}/jvm/scala-2.13.14/cryotherm-risk/cryotherm-risk_2.13-0.1.0.jar[0m
