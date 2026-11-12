@@ -33,3 +33,4 @@ Implemented routes include `/api/zones`, `/api/zones/:id/history`, `/api/alerts`
 - The service worker caches the shell and intentionally leaves API requests network-first for fresh readings.
 - Push, SMS, WhatsApp, and ML training are integration boundaries in this prototype; the climate route already exposes the ideal threshold fields needed to connect a trained risk model.
 # Cryocore---Adaptive-Crop-Defense-For-Smart-Agriculture
+# Cryocore---Adaptive-Crop-Defense-For-Smart-Agriculture
