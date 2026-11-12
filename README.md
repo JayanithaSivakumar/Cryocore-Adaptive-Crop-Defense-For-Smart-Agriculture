@@ -1,6 +1,6 @@
-# Crop Bodyguard
+# ADAPTIVE CROP DEFENSE SYSTEM FOR SMART AGRICULTURE
 
-Crop Bodyguard is a responsive farmer-facing PWA prototype backed by the supplied sensor, farm, yield, and district climate datasets. It is designed around icon-first status, voice feedback, large touch targets, and a demo path that can be shown without hardware.
+Croycore is a responsive farmer-facing PWA prototype backed by the supplied sensor, farm, yield, and district climate datasets. It is designed around icon-first status, voice feedback, large touch targets, and a demo path that can be shown without hardware.
 
 ## Run locally
 
